@@ -46,6 +46,13 @@ Each of us focused on trying to replicate some result from the paper. These atte
     - The loss values do not seem to go as high as the ones in the paper. At 20 attack iterations in each epoch, the m=1 line has a loss of about 0.05, where as in the original paper the loss is about 0.09. Similarly for the m=10 line the loss is about 0.15, where as in the original paper it is around 0.31. 
     - This may be attributed to us running the experiment for 10 epochs lesser, or using the wrong loss value from the one used in the paper.
 
-- **Transferrability Demo:** TODO
+- **Transferrability Demo:** 
+    - From our reproduction, we observed strong transferability from T1 and T2, to T4. However, the transferability from T3 to T4 was relatively poor, although still much more than minuscule (0.2). 
+    - The irregularity on T3 could be explained by the training epoch from T3 to T4 “unlearned” something, so the transferability seemed low. 
+    - This is inconsistent to the original paper.
 
-- **ATTA vs PGD-20 Demo:** TODO
+- **ATTA vs PGD-20 Demo:** 
+    - PGD-20 attack introduced 5.56 cross entropy loss on the target model, while ATTA-5 attack after accumulating for 4 epochs introduced 4.96 loss. 
+    - From this result we can state that ATTA accumulates strong attacks well in accumulating attack strength, and it also shows that ATTA can train a robust model with much less time compared to traditional methods. 
+    - This is consistent with the original paper. 
+
