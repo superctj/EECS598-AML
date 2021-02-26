@@ -37,9 +37,7 @@ Each of us focused on trying to replicate some result from the paper. These atte
 
 ## Replication summary [consistency v.s. inconsistency]
 
-- Most results are consistent with the original paper. However there are some inconsistencies.
-
-- **Running Time Demo:** TODO
+- **Running Time Demo:** The result was similar to the paper’s result for both time and adversary training accuracy. 
 
 - **PGD-k vs Accumulative PGD Demo:** There were some inconsistencies in this recreation.
     - Instead of going higher when the attack iterations in each epoch was increased, the like for m=10 actually started having lesser loss after 5 iterations per epoch. 
