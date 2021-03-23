@@ -1,6 +1,6 @@
 # EECS598-AML
 
-## Deep Fool
+## Deep Fool & Detect GAN-Generated Images
     Contributed by Bingzhao Shan, Songlin Liu, and Zian Wang
 
 ## ATTA
