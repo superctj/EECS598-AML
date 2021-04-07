@@ -1,0 +1,3 @@
+[submodule "TextFooler/TextFooler"]
+	path = TextFooler/TextFooler
+	url = https://github.com/jind11/TextFooler
