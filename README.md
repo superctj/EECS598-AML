@@ -5,3 +5,6 @@
 
 ## ATTA
     Contributed by Chenkai Su, K. Faryab Haye, and Zuoyi Li
+
+## TextFooler & Adversarial Dibiasing
+    Contributed by Sahil Farishta
