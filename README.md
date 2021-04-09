@@ -8,3 +8,6 @@
 
 ## TextFooler & Adversarial Dibiasing
     Contributed by Sahil Farishta
+
+## TrojanNet
+    Contributed by Chenkai Su, K. Faryab Haye, and Zuoyi Li
