@@ -1,0 +1,16 @@
+
+X:
+SVM acc: 85.11, 84.79, 85.45, 85.19, 84.96, 85.11, 85.35, 84.89
+difference between acc on male, female: 11.93, 11.42, 11.14, 10.81, 10.79, 11.48, 11.07, 11.51
+TPR diff: -3.7, -9.36, -6.09, -8.52, -11.31, -9.33, -9.07, -10.20
+FPR diff: -6.46, -7.29, -5.76, -5.90, -7.09, -6.64, -6.52, -7.11
+FNR diff: 3.7, 9.36, 6.09, 8.52, 11.31, 9.33, 9.07, 10.20
+TNR diff: 6.46, 7.29, 5.76, 5.90, 7.09, 6.64, 6.52, 7.11
+
+X tilde:
+SVM acc: 84.34
+difference between acc on male, female: 10.77
+TPR diff:
+FPR diff:
+FNR diff:
+TNR diff:

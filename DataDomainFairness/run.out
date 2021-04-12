@@ -1,0 +1,1088 @@
+0
+median of sqrt pairwise distance 1.4255567767942103
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  10
+SVM Accuracy: 84.34%
+per sensitive value: 91.51, 80.77, (10.74)
+SVM FPR and FNR: 7.99, 40.04
+TPR per sensitive value: 56.45, 60.58, (-4.13)
+FPR per sensitive value: 4.27, 10.37, (-6.10)
+FNR per sensitive value: 43.55, 39.42, (4.13)
+TNR per sensitive value: 95.73, 89.63, (6.10)
+
+
+[0.8434]
+[-4.12769525]
+[-6.09996055]
+with X
+CV_Scores [[0.85104579 0.85245902 0.84746561]
+ [0.85123422 0.85189373 0.84784247]
+ [0.85151686 0.85198794 0.84784247]
+ [0.85151686 0.85198794 0.84793669]
+ [0.85151686 0.85198794 0.84793669]
+ [0.85151686 0.85198794 0.84793669]
+ [0.85151686 0.85198794 0.84793669]]
+CV Mean [0.85032347 0.85032347 0.85044909 0.8504805  0.8504805  0.8504805
+ 0.8504805 ]
+SVM Accuracy: 85.11%
+Reg: 1000.00
+per sensitive value: 93.08, 81.15, (11.93)
+SVM FPR and FNR: 6.21, 42.46
+TPR per sensitive value: 54.39, 58.09, (-3.70)
+FPR per sensitive value: 2.27, 8.73, (-6.46)
+FNR per sensitive value: 45.61, 41.91, (3.70)
+TNR per sensitive value: 97.73, 91.27, (6.46)
+
+
+with Xtilde
+CV_Scores [[0.87092519 0.87064255 0.8691351 ]
+ [0.87177313 0.87083098 0.86979461]
+ [0.87186735 0.87083098 0.8697004 ]
+ [0.87186735 0.87083098 0.8697004 ]
+ [0.87186735 0.87083098 0.8697004 ]
+ [0.87186735 0.87083098 0.8697004 ]
+ [0.87186735 0.87083098 0.8697004 ]]
+CV Mean [0.87023428 0.87079957 0.87079957 0.87079957 0.87079957 0.87079957
+ 0.87079957]
+SVM Accuracy: 84.34%
+reg value: 10.00
+per sensitive value: 91.51, 80.77, (10.74)
+SVM FPR and FNR: 7.99, 40.04
+TPR per sensitive value: 56.45, 60.58, (-4.13)
+FPR per sensitive value: 4.27, 10.37, (-6.10)
+FNR per sensitive value: 43.55, 39.42, (4.13)
+TNR per sensitive value: 95.73, 89.63, (6.10)
+
+
+Encoder Accuracy: 83.86%
+per sensitive value: 91.05, 80.28, (10.77)
+Encoder FPR and FNR: 7.84, 42.52
+TPR per sensitive value: 53.83, 58.12, (-4.29)
+FPR per sensitive value: 4.47, 10.00, (-5.52)
+FNR per sensitive value: 46.17, 41.88, (4.29)
+TNR per sensitive value: 95.53, 90.00, (5.52)
+after test
+  
+  
+1
+median of sqrt pairwise distance 1.425853383882527
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  1
+SVM Accuracy: 84.00%
+per sensitive value: 90.10, 80.93, (9.16)
+SVM FPR and FNR: 9.00, 38.57
+TPR per sensitive value: 55.08, 62.62, (-7.54)
+FPR per sensitive value: 5.50, 11.23, (-5.73)
+FNR per sensitive value: 44.92, 37.38, (7.54)
+TNR per sensitive value: 94.50, 88.77, (5.73)
+
+
+[0.84]
+[-7.54098302]
+[-5.73459104]
+with X
+CV_Scores [[0.85114    0.84624081 0.84953835]
+ [0.85104579 0.84567552 0.84982099]
+ [0.85114    0.84576974 0.84991521]
+ [0.85114    0.84576974 0.84991521]
+ [0.85114    0.84576974 0.84991521]
+ [0.85114    0.84576974 0.84991521]
+ [0.85114    0.84576974 0.84991521]]
+CV Mean [0.84897305 0.84884743 0.84894165 0.84894165 0.84894165 0.84894165
+ 0.84894165]
+SVM Accuracy: 85.35%
+Reg: 1.00
+per sensitive value: 92.87, 81.57, (11.29)
+SVM FPR and FNR: 6.22, 41.81
+TPR per sensitive value: 50.45, 59.65, (-9.20)
+FPR per sensitive value: 1.79, 9.04, (-7.25)
+FNR per sensitive value: 49.55, 40.35, (9.20)
+TNR per sensitive value: 98.21, 90.96, (7.25)
+
+
+with Xtilde
+CV_Scores [[0.86800452 0.86856981 0.86819295]
+ [0.86819295 0.86856981 0.86791031]
+ [0.86800452 0.86866403 0.86772188]
+ [0.86800452 0.86866403 0.86772188]
+ [0.86800452 0.86866403 0.86772188]
+ [0.86800452 0.86866403 0.86772188]
+ [0.86800452 0.86866403 0.86772188]]
+CV Mean [0.86825576 0.86822436 0.86813014 0.86813014 0.86813014 0.86813014
+ 0.86813014]
+SVM Accuracy: 84.00%
+reg value: 1.00
+per sensitive value: 90.10, 80.93, (9.16)
+SVM FPR and FNR: 9.00, 38.57
+TPR per sensitive value: 55.08, 62.62, (-7.54)
+FPR per sensitive value: 5.50, 11.23, (-5.73)
+FNR per sensitive value: 44.92, 37.38, (7.54)
+TNR per sensitive value: 94.50, 88.77, (5.73)
+
+
+Encoder Accuracy: 83.83%
+per sensitive value: 90.24, 80.60, (9.63)
+Encoder FPR and FNR: 8.43, 41.13
+TPR per sensitive value: 54.72, 59.65, (-4.92)
+FPR per sensitive value: 5.29, 10.43, (-5.14)
+FNR per sensitive value: 45.28, 40.35, (4.92)
+TNR per sensitive value: 94.71, 89.57, (5.14)
+after test
+
+
+3
+median of sqrt pairwise distance 1.425878427466393
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  1
+SVM Accuracy: 83.42%
+per sensitive value: 89.88, 80.26, (9.62)
+SVM FPR and FNR: 8.87, 40.24
+TPR per sensitive value: 57.34, 60.20, (-2.86)
+FPR per sensitive value: 5.85, 10.77, (-4.92)
+FNR per sensitive value: 42.66, 39.80, (2.86)
+TNR per sensitive value: 94.15, 89.23, (4.92)
+
+
+[0.8342]
+[-2.85650745]
+[-4.91771699]
+with X
+CV_Scores [[0.84869041 0.85274166 0.84916148]
+ [0.84906727 0.8523648  0.84934992]
+ [0.8492557  0.85217637 0.84934992]
+ [0.84934992 0.85208216 0.84934992]
+ [0.84934992 0.85208216 0.84934992]
+ [0.84934992 0.85208216 0.84934992]
+ [0.84934992 0.85208216 0.84934992]]
+CV Mean [0.85019785 0.85026066 0.85026066 0.85026066 0.85026066 0.85026066
+ 0.85026066]
+SVM Accuracy: 84.79%
+Reg: 1000.00
+per sensitive value: 92.46, 81.04, (11.42)
+SVM FPR and FNR: 6.45, 42.09
+TPR per sensitive value: 50.00, 59.36, (-9.36)
+FPR per sensitive value: 1.97, 9.26, (-7.29)
+FNR per sensitive value: 50.00, 40.64, (9.36)
+TNR per sensitive value: 98.03, 90.74, (7.29)
+
+
+with Xtilde
+CV_Scores [[0.86819295 0.87328057 0.86706237]
+ [0.86809874 0.87299793 0.86706237]
+ [0.86809874 0.87328057 0.86706237]
+ [0.86809874 0.87328057 0.86706237]
+ [0.86809874 0.87328057 0.86706237]
+ [0.86809874 0.87328057 0.86706237]
+ [0.86809874 0.87328057 0.86706237]]
+CV Mean [0.86951197 0.86938635 0.86948056 0.86948056 0.86948056 0.86948056
+ 0.86948056]
+SVM Accuracy: 83.42%
+reg value: 1.00
+per sensitive value: 89.88, 80.26, (9.62)
+SVM FPR and FNR: 8.87, 40.24
+TPR per sensitive value: 57.34, 60.20, (-2.86)
+FPR per sensitive value: 5.85, 10.77, (-4.92)
+FNR per sensitive value: 42.66, 39.80, (2.86)
+TNR per sensitive value: 94.15, 89.23, (4.92)
+
+
+Encoder Accuracy: 82.99%
+per sensitive value: 89.60, 79.75, (9.85)
+Encoder FPR and FNR: 9.10, 41.30
+TPR per sensitive value: 56.29, 59.14, (-2.85)
+FPR per sensitive value: 6.03, 11.03, (-4.99)
+FNR per sensitive value: 43.71, 40.86, (2.85)
+TNR per sensitive value: 93.97, 88.97, (4.99)
+after test
+  
+  
+  
+4
+median of sqrt pairwise distance 1.4259660354923338
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  1
+SVM Accuracy: 84.37%
+per sensitive value: 90.98, 81.10, (9.88)
+SVM FPR and FNR: 8.22, 39.02
+TPR per sensitive value: 56.15, 61.80, (-5.64)
+FPR per sensitive value: 4.95, 10.32, (-5.38)
+FNR per sensitive value: 43.85, 38.20, (5.64)
+TNR per sensitive value: 95.05, 89.68, (5.38)
+
+
+[0.84373333]
+[-5.64135799]
+[-5.3764446]
+with X
+CV_Scores [[0.85321274 0.843697   0.84727718]
+ [0.85349538 0.84473337 0.84690032]
+ [0.8535896  0.84473337 0.84699454]
+ [0.8535896  0.84473337 0.84699454]
+ [0.8535896  0.84473337 0.84699454]
+ [0.8535896  0.84473337 0.84699454]
+ [0.8535896  0.84473337 0.84699454]]
+CV Mean [0.84806231 0.84837636 0.84843917 0.84843917 0.84843917 0.84843917
+ 0.84843917]
+SVM Accuracy: 85.45%
+Reg: 100.00
+per sensitive value: 92.89, 81.76, (11.14)
+SVM FPR and FNR: 5.96, 41.71
+TPR per sensitive value: 53.08, 59.17, (-6.09)
+FPR per sensitive value: 2.45, 8.21, (-5.76)
+FNR per sensitive value: 46.92, 40.83, (6.09)
+TNR per sensitive value: 97.55, 91.79, (5.76)
+
+
+with Xtilde
+CV_Scores [[0.87375165 0.86743923 0.86979461]
+ [0.87337479 0.86687394 0.86998304]
+ [0.87318636 0.86687394 0.87007726]
+ [0.87318636 0.86687394 0.87007726]
+ [0.87318636 0.86687394 0.87007726]
+ [0.87318636 0.86687394 0.87007726]
+ [0.87318636 0.86687394 0.87007726]]
+CV Mean [0.8703285  0.87007726 0.87004585 0.87004585 0.87004585 0.87004585
+ 0.87004585]
+SVM Accuracy: 84.37%
+reg value: 1.00
+per sensitive value: 90.98, 81.10, (9.88)
+SVM FPR and FNR: 8.22, 39.02
+TPR per sensitive value: 56.15, 61.80, (-5.64)
+FPR per sensitive value: 4.95, 10.32, (-5.38)
+FNR per sensitive value: 43.85, 38.20, (5.64)
+TNR per sensitive value: 95.05, 89.68, (5.38)
+
+
+Encoder Accuracy: 83.59%
+per sensitive value: 90.06, 80.39, (9.66)
+Encoder FPR and FNR: 10.92, 33.75
+TPR per sensitive value: 62.69, 66.85, (-4.16)
+FPR per sensitive value: 6.74, 13.59, (-6.85)
+FNR per sensitive value: 37.31, 33.15, (4.16)
+TNR per sensitive value: 93.26, 86.41, (6.85)
+after test
+  
+  
+5
+median of sqrt pairwise distance 1.4258617573024985
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  10
+SVM Accuracy: 84.12%
+per sensitive value: 90.87, 80.82, (10.05)
+SVM FPR and FNR: 8.56, 39.06
+TPR per sensitive value: 53.77, 62.18, (-8.41)
+FPR per sensitive value: 4.66, 11.01, (-6.35)
+FNR per sensitive value: 46.23, 37.82, (8.41)
+TNR per sensitive value: 95.34, 88.99, (6.35)
+
+
+[0.8412]
+[-8.40882552]
+[-6.3472976]
+with X
+CV_Scores [[0.85038628 0.84699454 0.85311852]
+ [0.85142265 0.84708875 0.85377803]
+ [0.85132843 0.84699454 0.85368381]
+ [0.85132843 0.84708875 0.85368381]
+ [0.85132843 0.84708875 0.85368381]
+ [0.85132843 0.84708875 0.85368381]
+ [0.85132843 0.84708875 0.85368381]]
+CV Mean [0.85016645 0.85076314 0.85066893 0.85070033 0.85070033 0.85070033
+ 0.85070033]
+SVM Accuracy: 85.19%
+Reg: 10.00
+per sensitive value: 92.45, 81.64, (10.81)
+SVM FPR and FNR: 6.11, 42.36
+TPR per sensitive value: 50.38, 58.89, (-8.52)
+FPR per sensitive value: 2.48, 8.38, (-5.90)
+FNR per sensitive value: 49.62, 41.11, (8.52)
+TNR per sensitive value: 97.52, 91.62, (5.90)
+
+
+with Xtilde
+CV_Scores [[0.866026   0.86809874 0.87026569]
+ [0.86649708 0.86772188 0.8703599 ]
+ [0.86640286 0.86762766 0.87045412]
+ [0.86640286 0.86762766 0.87045412]
+ [0.86640286 0.86762766 0.87045412]
+ [0.86640286 0.86762766 0.87045412]
+ [0.86640286 0.86762766 0.87045412]]
+CV Mean [0.86813014 0.86819295 0.86816155 0.86816155 0.86816155 0.86816155
+ 0.86816155]
+SVM Accuracy: 84.12%
+reg value: 10.00
+per sensitive value: 90.87, 80.82, (10.05)
+SVM FPR and FNR: 8.56, 39.06
+TPR per sensitive value: 53.77, 62.18, (-8.41)
+FPR per sensitive value: 4.66, 11.01, (-6.35)
+FNR per sensitive value: 46.23, 37.82, (8.41)
+TNR per sensitive value: 95.34, 88.99, (6.35)
+
+
+Encoder Accuracy: 83.90%
+per sensitive value: 90.32, 80.76, (9.56)
+Encoder FPR and FNR: 8.93, 38.81
+TPR per sensitive value: 51.89, 62.80, (-10.91)
+FPR per sensitive value: 5.05, 11.37, (-6.32)
+FNR per sensitive value: 48.11, 37.20, (10.91)
+TNR per sensitive value: 94.95, 88.63, (6.32)
+after test
+  
+  
+6
+median of sqrt pairwise distance 1.4259081968667382
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  1
+SVM Accuracy: 84.05%
+per sensitive value: 90.02, 81.11, (8.91)
+SVM FPR and FNR: 9.14, 37.24
+TPR per sensitive value: 56.61, 63.88, (-7.27)
+FPR per sensitive value: 5.71, 11.30, (-5.58)
+FNR per sensitive value: 43.39, 36.12, (7.27)
+TNR per sensitive value: 94.29, 88.70, (5.58)
+
+
+[0.84053333]
+[-7.2718028]
+[-5.58255479]
+with X
+CV_Scores [[0.85274166 0.84887884 0.85076314]
+ [0.8535896  0.84916148 0.8504805 ]
+ [0.85340117 0.84934992 0.85057471]
+ [0.85340117 0.84934992 0.85057471]
+ [0.85340117 0.84934992 0.85057471]
+ [0.85340117 0.84934992 0.85057471]
+ [0.85340117 0.84934992 0.85057471]]
+CV Mean [0.85079455 0.85107719 0.8511086  0.8511086  0.8511086  0.8511086
+ 0.8511086 ]
+SVM Accuracy: 84.96%
+Reg: 100.00
+per sensitive value: 92.18, 81.40, (10.79)
+SVM FPR and FNR: 6.69, 41.15
+TPR per sensitive value: 49.29, 60.59, (-11.31)
+FPR per sensitive value: 2.35, 9.43, (-7.09)
+FNR per sensitive value: 50.71, 39.41, (11.31)
+TNR per sensitive value: 97.65, 90.57, (7.09)
+
+
+with Xtilde
+CV_Scores [[0.87394008 0.86960618 0.87337479]
+ [0.87375165 0.86932353 0.87290371]
+ [0.87365743 0.86951197 0.87290371]
+ [0.87365743 0.86951197 0.87290371]
+ [0.87365743 0.86951197 0.87290371]
+ [0.87365743 0.86951197 0.87290371]
+ [0.87365743 0.86951197 0.87290371]]
+CV Mean [0.87230702 0.87199297 0.87202437 0.87202437 0.87202437 0.87202437
+ 0.87202437]
+SVM Accuracy: 84.05%
+reg value: 1.00
+per sensitive value: 90.02, 81.11, (8.91)
+SVM FPR and FNR: 9.14, 37.24
+TPR per sensitive value: 56.61, 63.88, (-7.27)
+FPR per sensitive value: 5.71, 11.30, (-5.58)
+FNR per sensitive value: 43.39, 36.12, (7.27)
+TNR per sensitive value: 94.29, 88.70, (5.58)
+
+
+Encoder Accuracy: 82.16%
+per sensitive value: 88.73, 78.92, (9.81)
+Encoder FPR and FNR: 14.31, 28.87
+TPR per sensitive value: 60.71, 73.02, (-12.31)
+FPR per sensitive value: 7.70, 18.48, (-10.78)
+FNR per sensitive value: 39.29, 26.98, (12.31)
+TNR per sensitive value: 92.30, 81.52, (10.78)
+after test
+  
+  
+7
+median of sqrt pairwise distance 1.42605119803043
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  1
+SVM Accuracy: 83.99%
+per sensitive value: 90.54, 80.77, (9.77)
+SVM FPR and FNR: 8.33, 40.41
+TPR per sensitive value: 50.85, 61.10, (-10.25)
+FPR per sensitive value: 4.71, 10.62, (-5.91)
+FNR per sensitive value: 49.15, 38.90, (10.25)
+TNR per sensitive value: 95.29, 89.38, (5.91)
+
+
+[0.83993333]
+[-10.25319206]
+[-5.90821725]
+with X
+CV_Scores [[0.84963256 0.85255323 0.84812512]
+ [0.84991521 0.85340117 0.84812512]
+ [0.84982099 0.85311852 0.84831355]
+ [0.84991521 0.85311852 0.84840776]
+ [0.84991521 0.85311852 0.84840776]
+ [0.84991521 0.85311852 0.84840776]
+ [0.84991521 0.85311852 0.84840776]]
+CV Mean [0.85010364 0.8504805  0.85041769 0.8504805  0.8504805  0.8504805
+ 0.8504805 ]
+SVM Accuracy: 85.11%
+Reg: 10.00
+per sensitive value: 92.81, 81.33, (11.48)
+SVM FPR and FNR: 6.01, 43.08
+TPR per sensitive value: 48.96, 58.30, (-9.33)
+FPR per sensitive value: 1.95, 8.58, (-6.64)
+FNR per sensitive value: 51.04, 41.70, (9.33)
+TNR per sensitive value: 98.05, 91.42, (6.64)
+
+
+with Xtilde
+CV_Scores [[0.87026569 0.87139627 0.8697004 ]
+ [0.86960618 0.8715847  0.86988883]
+ [0.86951197 0.87167891 0.86998304]
+ [0.86951197 0.87167891 0.86998304]
+ [0.86951197 0.87167891 0.86998304]
+ [0.86951197 0.87167891 0.86998304]
+ [0.86951197 0.87167891 0.86998304]]
+CV Mean [0.87045412 0.8703599  0.87039131 0.87039131 0.87039131 0.87039131
+ 0.87039131]
+SVM Accuracy: 83.99%
+reg value: 1.00
+per sensitive value: 90.54, 80.77, (9.77)
+SVM FPR and FNR: 8.33, 40.41
+TPR per sensitive value: 50.85, 61.10, (-10.25)
+FPR per sensitive value: 4.71, 10.62, (-5.91)
+FNR per sensitive value: 49.15, 38.90, (10.25)
+TNR per sensitive value: 95.29, 89.38, (5.91)
+
+
+Encoder Accuracy: 83.94%
+per sensitive value: 90.66, 80.63, (10.03)
+Encoder FPR and FNR: 8.37, 40.49
+TPR per sensitive value: 52.17, 60.78, (-8.60)
+FPR per sensitive value: 4.73, 10.67, (-5.94)
+FNR per sensitive value: 47.83, 39.22, (8.60)
+TNR per sensitive value: 95.27, 89.33, (5.94)
+after test
+  
+  
+8
+median of sqrt pairwise distance 1.4259674958809556
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  10
+SVM Accuracy: 84.19%
+per sensitive value: 91.03, 80.81, (10.22)
+SVM FPR and FNR: 7.98, 41.07
+TPR per sensitive value: 51.42, 60.25, (-8.83)
+FPR per sensitive value: 4.26, 10.34, (-6.09)
+FNR per sensitive value: 48.58, 39.75, (8.83)
+TNR per sensitive value: 95.74, 89.66, (6.09)
+
+
+[0.84193333]
+[-8.83396961]
+[-6.08509464]
+with X
+CV_Scores [[0.85227059 0.84567552 0.85085736]
+ [0.85293009 0.84586395 0.85066893]
+ [0.85302431 0.8461466  0.85076314]
+ [0.85302431 0.8461466  0.85085736]
+ [0.85302431 0.8461466  0.85085736]
+ [0.85302431 0.8461466  0.85085736]
+ [0.85302431 0.8461466  0.85085736]]
+CV Mean [0.84960116 0.84982099 0.84997802 0.85000942 0.85000942 0.85000942
+ 0.85000942]
+SVM Accuracy: 85.35%
+Reg: 1000.00
+per sensitive value: 92.76, 81.68, (11.07)
+SVM FPR and FNR: 6.17, 42.00
+TPR per sensitive value: 50.28, 59.36, (-9.07)
+FPR per sensitive value: 2.18, 8.70, (-6.52)
+FNR per sensitive value: 49.72, 40.64, (9.07)
+TNR per sensitive value: 97.82, 91.30, (6.52)
+
+
+with Xtilde
+CV_Scores [[0.87101941 0.86555493 0.86753345]
+ [0.87196156 0.86451856 0.86781609]
+ [0.87186735 0.86451856 0.86781609]
+ [0.87186735 0.86451856 0.86781609]
+ [0.87186735 0.86451856 0.86781609]
+ [0.87186735 0.86451856 0.86781609]
+ [0.87186735 0.86451856 0.86781609]]
+CV Mean [0.86803593 0.86809874 0.86806733 0.86806733 0.86806733 0.86806733
+ 0.86806733]
+SVM Accuracy: 84.19%
+reg value: 10.00
+per sensitive value: 91.03, 80.81, (10.22)
+SVM FPR and FNR: 7.98, 41.07
+TPR per sensitive value: 51.42, 60.25, (-8.83)
+FPR per sensitive value: 4.26, 10.34, (-6.09)
+FNR per sensitive value: 48.58, 39.75, (8.83)
+TNR per sensitive value: 95.74, 89.66, (6.09)
+
+
+Encoder Accuracy: 83.67%
+per sensitive value: 90.50, 80.29, (10.21)
+Encoder FPR and FNR: 8.81, 40.59
+TPR per sensitive value: 48.58, 61.31, (-12.73)
+FPR per sensitive value: 4.50, 11.54, (-7.04)
+FNR per sensitive value: 51.42, 38.69, (12.73)
+TNR per sensitive value: 95.50, 88.46, (7.04)
+after test
+  
+  
+9
+median of sqrt pairwise distance 1.426173278035614
+before data_train_marginal
+after data_train_marginal
+after data_valid_marginal
+Equal Opportunity Criterion
+Finished iteration 1000
+Finished iteration 2000
+Finished iteration 3000
+Finished iteration 4000
+Finished iteration 5000
+Finished iteration 6000
+Finished iteration 7000
+Finished iteration 8000
+Finished iteration 9000
+Finished iteration 10000
+Finished iteration 11000
+Finished iteration 12000
+Finished iteration 13000
+Finished iteration 14000
+Finished iteration 15000
+Finished iteration 16000
+Finished iteration 17000
+Finished iteration 18000
+Finished iteration 19000
+Finished iteration 20000
+Finished iteration 21000
+Finished iteration 22000
+Finished iteration 23000
+Finished iteration 24000
+Finished iteration 25000
+Finished iteration 26000
+Finished iteration 27000
+Finished iteration 28000
+Finished iteration 29000
+Finished iteration 30000
+Finished iteration 31000
+Finished iteration 32000
+Finished iteration 33000
+Finished iteration 34000
+Finished iteration 35000
+Finished iteration 36000
+Finished iteration 37000
+Finished iteration 38000
+Finished iteration 39000
+Finished iteration 40000
+Finished iteration 41000
+Finished iteration 42000
+Finished iteration 43000
+Finished iteration 44000
+Finished iteration 45000
+Finished iteration 46000
+Finished iteration 47000
+Finished iteration 48000
+Finished iteration 49000
+Finished iteration 50000
+after train
+with Xtilde for all iterations
+Regularization  10
+SVM Accuracy: 83.89%
+per sensitive value: 90.83, 80.53, (10.30)
+SVM FPR and FNR: 8.49, 39.63
+TPR per sensitive value: 57.07, 60.96, (-3.89)
+FPR per sensitive value: 4.82, 10.77, (-5.95)
+FNR per sensitive value: 42.93, 39.04, (3.89)
+TNR per sensitive value: 95.18, 89.23, (5.95)
+
+
+[0.83886667]
+[-3.89139392]
+[-5.94514857]
+with X
+CV_Scores [[0.85688713 0.84746561 0.84972678]
+ [0.85698135 0.84727718 0.85038628]
+ [0.85698135 0.84727718 0.85010364]
+ [0.85707556 0.84727718 0.85000942]
+ [0.85707556 0.84727718 0.85000942]
+ [0.85707556 0.84727718 0.85000942]
+ [0.85707556 0.84727718 0.85000942]]
+CV Mean [0.85135984 0.85154827 0.85145405 0.85145405 0.85145405 0.85145405
+ 0.85145405]
+SVM Accuracy: 84.89%
+Reg: 10.00
+per sensitive value: 92.64, 81.13, (11.51)
+SVM FPR and FNR: 6.00, 43.23
+TPR per sensitive value: 48.12, 58.32, (-10.20)
+FPR per sensitive value: 1.61, 8.72, (-7.11)
+FNR per sensitive value: 51.88, 41.68, (10.20)
+TNR per sensitive value: 98.39, 91.28, (7.11)
+
+
+with Xtilde
+CV_Scores [[0.87403429 0.86875824 0.86875824]
+ [0.87412851 0.86904089 0.8684756 ]
+ [0.87403429 0.86904089 0.8684756 ]
+ [0.87403429 0.86904089 0.8684756 ]
+ [0.87403429 0.86904089 0.8684756 ]
+ [0.87403429 0.86904089 0.8684756 ]
+ [0.87403429 0.86904089 0.8684756 ]]
+CV Mean [0.87051693 0.87054833 0.87051693 0.87051693 0.87051693 0.87051693
+ 0.87051693]
+SVM Accuracy: 83.89%
+reg value: 10.00
+per sensitive value: 90.83, 80.53, (10.30)
+SVM FPR and FNR: 8.49, 39.63
+TPR per sensitive value: 57.07, 60.96, (-3.89)
+FPR per sensitive value: 4.82, 10.77, (-5.95)
+FNR per sensitive value: 42.93, 39.04, (3.89)
+TNR per sensitive value: 95.18, 89.23, (5.95)
+
+
+Encoder Accuracy: 82.29%
+per sensitive value: 89.58, 78.77, (10.81)
+Encoder FPR and FNR: 13.83, 29.66
+TPR per sensitive value: 64.04, 71.47, (-7.42)
+FPR per sensitive value: 7.13, 17.99, (-10.86)
+FNR per sensitive value: 35.96, 28.53, (7.42)
+TNR per sensitive value: 92.87, 82.01, (10.86)
+after test
