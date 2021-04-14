@@ -9,5 +9,8 @@
 ## TextFooler & Adversarial Dibiasing
     Contributed by Sahil Farishta
 
-## TrojanNet
-    Contributed by Chenkai Su, K. Faryab Haye, and Zuoyi Li
+## RP2 & Discover Fairness Representation in Data Domain
+    Anthony Liang, Cheng Jiang, and Kevin Wang
+
+## Bypassing Ten Detections
+    Kevin Lee, Ananth Chillarige, Shrijesh Siwakoti
