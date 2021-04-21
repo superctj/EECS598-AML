@@ -14,3 +14,6 @@
 
 ## Bypassing Ten Detections
     Kevin Lee, Ananth Chillarige, Shrijesh Siwakoti
+
+## Trades & Fibber
+    Luya Gao
