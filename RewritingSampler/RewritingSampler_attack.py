@@ -13,11 +13,15 @@ use_weight = 2000  #@param {type:"raw"}
 gpt2_weight = 10   #@param {type:"raw"}
 clf_weight = 3   #@param {type:"raw"}
 
-def download_dataset():
+def download_resources():
+    """
+    Download all the datasets and resources needed to run this file.
+    """
     download_all()
 
 def create_fibber(dataset="ag", block_size = 3):
     """
+    Create a Fibber object for the given dataset.
     """
     # The following dictionary is copied directly from Fibber's Google Colab tutorial 
     # (https://colab.research.google.com/drive/1zefsU19P3HdrBUqJy7HU9b9cSaB_nBMP#scrollTo=uNcmhgzHJ3VQ)
@@ -43,6 +47,9 @@ def create_fibber(dataset="ag", block_size = 3):
     return fibber
 
 def generate_rewritten_testset(fibber, testset, n=1):
+    """
+    Use the given Fibber object to generate n rewritten sentences for each sentence in the testset.
+    """
     rewritten_set = dict()
     rewritten_list = []
     metric_results = []
@@ -60,6 +67,9 @@ def generate_rewritten_testset(fibber, testset, n=1):
 
 
 def calc_accuracy(fibber, testset):
+    """
+    Calculate accuracy on the given testset.
+    """
     tot_num = len(testset['data'])
     acc_pred = 0
     for i in range(tot_num):
