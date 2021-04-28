@@ -12,7 +12,7 @@
 ## RP2 & Discover Fairness Representation in Data Domain
     Anthony Liang, Cheng Jiang, and Kevin Wang
 
-## Bypassing Ten Detections
+## NN Breaking Detections & Bayesian Relevance
     Kevin Lee, Ananth Chillarige, Shrijesh Siwakoti
 
 ## Trades & Fibber
