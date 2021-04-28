@@ -11,3 +11,6 @@
 
 ## TrojanNet
     Contributed by Chenkai Su, K. Faryab Haye, and Zuoyi Li
+
+## NN Breaking Detection
+    Contributed by Kevin Lee, Shrijesh Siwakoti, Ananth Chillarige
