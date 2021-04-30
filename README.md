@@ -3,8 +3,7 @@
 ## Deep Fool & Detect GAN-Generated Images
     Contributed by Bingzhao Shan, Songlin Liu, and Zian Wang
 
-## ATTA & Trojan Attack &
-## Are Vision Transformer Models more Adversarially Robust than Convolutional Neural Networks?
+## ATTA & Trojan Attack & Are Vision Transformer Models more Adversarially Robust than Convolutional Neural Networks?
     Contributed by Chenkai Su, K. Faryab Haye, and Zuoyi Li
 
 ## TextFooler & Adversarial Dibiasing
