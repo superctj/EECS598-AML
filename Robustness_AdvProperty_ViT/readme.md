@@ -40,7 +40,19 @@ Note: [detector_fft_normal_train](https://github.com/zuoyigehaobing/EECS598-AML/
 
 - Example of ensemble attacking evaluation.
 
+6. [Detector training with DCT transform](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/VIT_detector_dct.ipynb)
 
+- Example of Detector training with DCT transform, and both spatial and freuqnecy domain normalization.
 
+7. [Frequency analysis](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/ViT_filter_comparison.ipynb)
 
+- Example of frequency analysis on adversarial examples.
+
+8. [PGD adversarial dataset generation](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/PGD_dataset_generation.ipynb)
+
+- Example of PGD-5 adversarial dataset generation.
+
+9. [This links to useful weight files](https://drive.google.com/drive/folders/1Oisx57dUR1qMEAuL_m09YKxKJf0pceFJ?usp=sharing)
+
+- This folder contains weights for models we have fine-tuned or trained.
 
