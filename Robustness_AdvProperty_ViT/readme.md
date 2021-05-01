@@ -8,7 +8,7 @@
 
 Presentation Report; [HERE](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/EECS598FinalPresentation.pdf)
 
-Final Report:   [HERE](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/EECS598FinalPresentation.pdf)
+Final Report:   [HERE](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/Robustness%26AdversarialPropertiesViT.pdf)
 
 ### Code reading guidance
 
