@@ -32,7 +32,7 @@ Final Report:   [HERE](https://github.com/zuoyigehaobing/EECS598-AML/blob/master
 
 - Example of ensemble trainer and attack.
 
-5. [20210429_ensemble_eval](https://github.com/zuoyigehaobing/EECS598-AML/tree/master/Robustness_AdvProperty_ViT)
+5. [20210429_ensemble_eval](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/20210429_shan_ensemble_eval.ipynb)
 
 - Example of ensemble attacking evaluation.
 
