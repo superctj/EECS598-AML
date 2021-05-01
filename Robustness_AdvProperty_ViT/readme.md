@@ -26,6 +26,8 @@ Note: usage on CIFAR10 can be found here: [ViT_ResNet50_CIFAR10_robustness](http
 
 - Example of adversarial detector trainer. Usage are similar for other detector settings
 
+Note: [detector_fft_normal_train](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/detector_fft_normal_train.ipynb) is the usage of training a detector under frequency domain.
+
 3. [binary_detectir_eval1](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/binary_detectir_eval1.ipynb)
 
 - Example of adversarial detector evaluation. Usage are similar for other detector settings.
