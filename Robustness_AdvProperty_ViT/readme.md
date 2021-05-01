@@ -12,13 +12,15 @@ Final Report:   [HERE](https://github.com/zuoyigehaobing/EECS598-AML/blob/master
 
 ### Code reading guidance
 
-1. [VIT_robustness_ImageNet16](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/VIT_robustness_ImageNet16.ipynb)
+1. [VIT_robustness_ImageNet16](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/VIT_robustness_ImageNet16.ipynb) on ImageNet16
 
 - ViT fine-tuning
 - ResNet fine-tining
 - White-box attacks (FGSM, PGD, C&W)
 - White-box attacking transferability
 - Adversarial trainning
+
+Note: usage on CIFAR10 can be found here: [ViT_ResNet50_CIFAR10_robustness](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/ViT_ResNet50_CIFAR10_robustness.ipynb)
 
 2. [VIT_detector_resnet](https://github.com/zuoyigehaobing/EECS598-AML/blob/master/Robustness_AdvProperty_ViT/VIT_detector_resnet_lr0.00001.ipynb)
 
